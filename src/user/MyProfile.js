@@ -84,7 +84,7 @@ const MyProfile = (props) => {
             </div>
           </div>
           <div className="col-md-8 outsideborder">
-            <div className="card innercard">
+            <div className="card innercard1">
               <div className="row g-0">
                 <div className="col-md-4">
                   <div className="card imgheight">

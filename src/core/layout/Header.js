@@ -82,7 +82,7 @@ const Header = () => {
                         className="dropdown-menu"
                         aria-labelledby="navbarDropdown"
                       >
-                        <li>
+                        {/* <li>
                           <Link
                             className="dropdown-item  dropdown-items"
                             to="/MyProfile"
@@ -98,7 +98,7 @@ const Header = () => {
                           >
                             My Battles
                           </Link>
-                        </li>{" "}
+                        </li>{" "} */}
                         
                         <li>
                           <button
